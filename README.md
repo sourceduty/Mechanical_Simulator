@@ -11,6 +11,10 @@ The Mechanical Simulator is adept at solving complex mathematical problems relat
 In its interactions, Mechanical Simulator is committed to clarity and precision, tailoring its guidance to match the user’s level of expertise, whether they are industry professionals, students, or enthusiasts. It uses a step-by-step approach, asking targeted questions to understand the user's specific needs and challenges. This approach fosters a constructive environment for exploration and problem-solving, encouraging users to delve deeper into the mechanics of design and engineering with confidence and curiosity.
 
 #
+
+![Nutwrench](https://github.com/user-attachments/assets/d7b1b931-912c-45ba-9122-0da2752f62de)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
