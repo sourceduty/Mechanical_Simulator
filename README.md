@@ -18,6 +18,8 @@ In its interactions, Mechanical Simulator is committed to clarity and precision,
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Art Robotics](https://github.com/sourceduty/Art_Robotics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
