@@ -14,6 +14,8 @@ In its interactions, Mechanical Simulator is committed to clarity and precision,
 ![Nutwrench](https://github.com/user-attachments/assets/d7b1b931-912c-45ba-9122-0da2752f62de)
 #
 ![Mechanical Machine](https://github.com/user-attachments/assets/7c1c879e-c6ef-4656-83ce-dbcc5c0567bd)
+<br>
+[Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
 
 #
 ### Related Links
