@@ -30,6 +30,8 @@ Solve a mechanical engineering problem.
 [Art Robotics](https://github.com/sourceduty/Art_Robotics)
 <br>
 [Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
+<br>
+[Mechanical Design](https://github.com/sourceduty/Mechanical_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
